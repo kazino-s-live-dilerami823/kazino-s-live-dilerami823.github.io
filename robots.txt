@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kazino-s-live-dilerami823.github.io/sitemap.xml
